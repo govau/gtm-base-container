@@ -14,4 +14,4 @@ The base container template was constructed by Data Runs Deep, and is maintained
 **Further assistance**
 
 We have more detailed documentation available at https://docs.google.com/document/d/1wii12j_z7rpddVFnn0YaOZjHmnZPD8mzVkjca6Buo7U. 
-Please send us an email at [observatory@digital.gov.au](mailto:observatory@digital.gov.au) to gain access to this document.
+Please send us an email at [observatory@dta.gov.au](mailto:observatory@dta.gov.au) to gain access to this document.
