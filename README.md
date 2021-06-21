@@ -12,5 +12,6 @@ The base container template was constructed by Data Runs Deep, and is maintained
 7. Go into "Folders" and modify the values under **[BC] #1 - GTM - Configuration - Core (10)** and **[BC] #2 - GTM - Configuration - Design System** to match your website's specifications and CSS selectors. 
 
 **Further assistance**
+
 We have more detailed documentation available at https://docs.google.com/document/d/1wii12j_z7rpddVFnn0YaOZjHmnZPD8mzVkjca6Buo7U. 
 Please send us an email at [observatory@digital.gov.au](mailto:observatory@digital.gov.au) to gain access to this document.
