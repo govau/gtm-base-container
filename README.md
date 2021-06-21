@@ -1,5 +1,5 @@
 # GTM Base Container
-This repository contains the GTM base container used for Government GA.
+This repository contains the GTM base container, a [Design System](https://designsystem.gov.au/) based GTM configuration compatible with Google Analytics for the Australian Government.
 The base container template was constructed by Data Runs Deep, and is maintained/regularly updated by the DTA Observatory Team.
 
 **Setup instructions**
